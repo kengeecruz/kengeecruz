@@ -8,3 +8,11 @@ Hola, soy Kengee.
 -Desarrollo de pequeños proyectos. 
 -Busco seguir aprendiendo sobre el mundo de las tecnologías.
 
+### Habilidades.
+-React js.
+-Python.
+-JavaScript.
+-HTML.
+-Css.
+
+
