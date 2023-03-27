@@ -4,7 +4,7 @@
 Hola, soy Kengee.
 
 ### Acerca de mí
--Curso finalizado de Full Stack Academy.
--Desarrolo de pequeños proyectos. 
+-Curso finalizado de Full Stack Academy.                            
+-Desarrollo de pequeños proyectos. 
 -Busco seguir aprendiendo sobre el mundo de las tecnologías.
 
